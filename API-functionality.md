@@ -6,5 +6,4 @@ API example:
 ![alt text][APIImage]
 [APIImage]: http://www.3scale.net/wp-content/uploads/2012/03/Why-3scale-1.1.png (136KB)
 
-"API example image"
 [API wiki link](http://en.wikipedia.org/wiki/Application_programming_interface)
