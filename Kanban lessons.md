@@ -1,3 +1,4 @@
 For me, learning about the Kanban methodology was the most valuable take-away from the class. Prior to the class I’ve heard of the Kanban methodology when applied to the manufacturing process for automobile makers but I never knew the same methodology could be used to efficiently drive the software development process. After learning the four basic principles of Kanban it made sense that this methodology would be used when working with multiple engineers that were completing several dynamic tasks at once. The first two principles of Kanban – start with existing process and agree to incremental change  - made sense, as Kanban is a change management method. However, the third principle - respect the current process, roles and responsibilities – was an interesting concept which I later realized is the main principle that facilities future change in the software development process. By agreeing to respect the roles and responsibilities, the engineers and those managing the process can develop deeper support between one another which helps drive a more efficient process.
-http://blog.crisp.se/henrikkniberg/images/qconsf-2009-kanban.jpg
-http://kanbanblog.com/explained/
+![alt text][KanbanProcess]
+[KanbanProcess]: http://blog.crisp.se/henrikkniberg/images/qconsf-2009-kanban.jpg "Kanban image"
+[Kanban explained](http://kanbanblog.com/explained/)
