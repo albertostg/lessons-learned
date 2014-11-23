@@ -1,3 +1,8 @@
+
+
+![alt text][leanstartup]
+[leanstartup]: http://thumbnails.visually.netdna-cdn.com/the-lean-startup_50291668aa9bb.png "class"
+
 Professor Bell´s insight into the Lean Startup Approach and how we can best maximize learning and minimize the cost and
 time it takes to learn was valuable for me. The analysis for which Minimum Viable Products (MVP) best optimize learning was
 useful as I now have steps I can follow to do things that do not scale in the early days such as: 
@@ -14,3 +19,5 @@ o	On average 50% of time, development estimate will be late
 o	Better to give a range (7-10 days) 
 o	What is my economic incentive around this? 
 o	Need to have about double the budget of the actual software cost 
+
+[About our Professor, Peter Bell](https://generalassemb.ly/instructors/peter-bell/20)
